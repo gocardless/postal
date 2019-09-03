@@ -1,4 +1,4 @@
-FROM ruby:2.5-alpine
+FROM ruby:2.6.4-alpine
 
 MAINTAINER GoCardless Engineering <engineering@gocardless.com>
 
