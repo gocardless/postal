@@ -87,7 +87,7 @@ GEM
       railties (>= 3.0.0)
     faraday (0.14.0)
       multipart-post (>= 1.2, < 3)
-    ffi (1.9.21)
+    ffi (1.13.0)
     foreman (0.84.0)
       thor (~> 0.19.1)
     gelf (3.0.0)
