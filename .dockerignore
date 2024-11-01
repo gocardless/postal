@@ -6,3 +6,4 @@ log
 tmp
 public/assets
 vendor/bundle
+resource/virus-message.msg
